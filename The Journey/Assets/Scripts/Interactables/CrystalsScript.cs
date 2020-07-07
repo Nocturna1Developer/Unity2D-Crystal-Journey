@@ -25,9 +25,9 @@ public class CrystalsScript : MonoBehaviour
             ScoreTextScript.coinAmount = 0;
         }
 
-        // if (collision.gameObject.tag == "Player")
-        // {
-        //     audioSource.Play();
-        // }
+        if (collision.gameObject.tag == "Player")
+        {
+            //collision.audioSource.Play();
+        }
     }
 }

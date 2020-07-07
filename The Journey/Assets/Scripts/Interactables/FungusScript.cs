@@ -5,16 +5,22 @@ using UnityEngine.UI;
 
 public class FungusScript : MonoBehaviour
 {
-    //AudioSource audioSource;
+    AudioSource audioSource;
 
-     //void Start () 
-     //{
-     //    audio = GetComponent<AudioSource>();
-     //}
+     void Start () 
+     {
+         audioSource = GetComponent<AudioSource>();
+     }
+
     public void OnCollisionEnter2D(Collision2D collision)
     {
         ScoreTextScript.coinAmount -= 15;
-        //GetComponent<AudioSource>().PlayOneShot(audioSource);
         Destroy(gameObject);
+        if (collision.gameObject.tag == "Player")
+        {
+            //collision.audioSource.Play();
+            //Destroy(gameObject);
+        }
+        
     }
 }
