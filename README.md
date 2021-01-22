@@ -1,22 +1,32 @@
-# Unity3D_CrystalJourney_Game
+# Unity3D_Platformer_Game
 
-https://nocturna1.itch.io/crystal-journey
+# Crystal Journey
 
+## Link: https://nocturna1.itch.io/crystal-journey
 
-A fun fast-paced 2D platformer.
+## Game Description
 
-This was a game jam entry.
+A fun fast-paced 2D retro platformer. This game is about a fox that goes on an adventure for crystals.
 
-After you earn $180 worth of precious crystals the level will change.
+### How To Play
 
-Collect two hundred dollars worth of crystals before the time runs out.
+Collect $150 worth of precious crystals to advance to the next level.
+Avoid poisonous fungus so you don't drop crystals!
+Finish each level before the time runs out.
 
-Avoid poisonous plants so you don't drop crystals!
+### Controls
 
-Movement: A, D
+* Movement: A, D
+* Jump: Spacebar
 
-Jump: Spacebar
+### Credit: 
 
-This was a 2D platformer game that was created in 48 hours and submitted as a simmer jam entry. I used rigid body physics and vector motion calculations. The physics component allowed me to transform the position of the character in a controlled fashion so that it doesn't disrupt the flow of the engine because, engine colliders can be offset easily since it is implicitly attached to the rigid body. I added a physics material that gives the character fiction that occurs during a collision. I used Unity’s powerful scripting application programming interface to apply vector motion forces to control the direction of my character.
+* Magic Cliff Pack 
+* Foggy Mountian Pack
+* Sunnyland Fox
+* Monsters Creatures Fantasy Pack
+* 8-Bit Action Free Music
 
-#retro #platformer #action #adventure #other #survival #singleplayer #8bit #music #relaxing #fun #unity #2D #short
+## Tags: 
+#retro #platformer #action #adventure #other #survival #singleplayer #8bit #music #relaxing #fun #unity #2D #short #fastpaced #collect #avoid #hard
+
