@@ -17,7 +17,7 @@ Finish each level before the time runs out.
 ### Controls
 
 * Movement: A, D
-* Jump: Spacebar
+* Jump: Spacebar 
 
 ### Credit: 
 
