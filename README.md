@@ -25,5 +25,7 @@ Finish each level before the time runs out.
 * Monsters Creatures Fantasy Pack
 * 8-Bit Action Free Music
 
+I made this game for fun using only free assets from the Unity Store. :)
+
 ## Tags: 
 #retro #platformer #action #adventure #other #survival #singleplayer #8bit #music #relaxing #fun #unity #2D #short #fastpaced #collect #avoid #hard
