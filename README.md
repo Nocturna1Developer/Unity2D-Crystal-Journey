@@ -1,5 +1,3 @@
-# Unity3D_Platformer_Game
-
 # Crystal Journey
 
 ## Link: https://nocturna1.itch.io/crystal-journey
@@ -29,4 +27,3 @@ Finish each level before the time runs out.
 
 ## Tags: 
 #retro #platformer #action #adventure #other #survival #singleplayer #8bit #music #relaxing #fun #unity #2D #short #fastpaced #collect #avoid #hard
-
